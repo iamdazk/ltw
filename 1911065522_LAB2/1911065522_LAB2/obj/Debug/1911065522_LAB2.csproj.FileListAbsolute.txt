@@ -1,0 +1,10 @@
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\bin\Debug\1911065522_LAB2.exe.config
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\bin\Debug\1911065522_LAB2.exe
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\bin\Debug\1911065522_LAB2.pdb
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\1911065522_LAB2.csproj.AssemblyReference.cache
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\_1911065522_LAB2.BAI1.resources
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\_1911065522_LAB2.Properties.Resources.resources
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\1911065522_LAB2.csproj.GenerateResource.cache
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\1911065522_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\1911065522_LAB2.exe
+C:\Users\kanpi\source\repos\1911065522_LAB2\1911065522_LAB2\obj\Debug\1911065522_LAB2.pdb
